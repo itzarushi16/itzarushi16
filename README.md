@@ -1,6 +1,7 @@
 
 
-<img align="right" alt="Girl Coding" width="300" height="300" style="border-radius: 40%" //  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" 
+<img align="right" alt="Girl Coding" width="300" height="300" style="border-radius: 40%" >
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" 
        width="150" 
        height="150" 
        style="border-radius: 50%;" />
