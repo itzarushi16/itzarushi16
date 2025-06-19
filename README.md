@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" alt="Loading" />
+</p>
 
 <p align="right">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" 
@@ -5,9 +8,6 @@
        alt="Girl Coding" />
 </p>
 
-
-<h1 align="center">Hola 👋, I'm Arushi Alone</h1>
-<h3 align="center">A passionate Web Developer from India 💻✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Frontend+Dev+%F0%9F%92%BB;Coding+with+Creativity+%F0%9F%92%A1;Lover+of+UI+%26+Design+%F0%9F%92%8C;React+%2B+Tailwind+Fan+%F0%9F%A4%8D" alt="Typing SVG" />
