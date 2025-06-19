@@ -1,13 +1,7 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Typing Animation"/>
-    </td>
-    <td align="right">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="150" alt="Girl Coding"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" alt="Banner Animation" />
+</p>
+
 
 
 
