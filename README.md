@@ -5,7 +5,7 @@
 
 
 
-
+<h2 align="center">¡Hola! Soy <span style="color:#f778ba;">Arushi</span> 👋</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=435&lines=Frontend+Dev+%F0%9F%92%BB;Coding+with+Creativity+%F0%9F%92%A1;Lover+of+UI+%26+Design+%F0%9F%92%8C;React+%2B+Tailwind+Fan+%F0%9F%A4%8D" alt="Typing SVG" />
