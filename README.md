@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" alt="Banner Animation" />
+  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDv5J5K9/giphy.gif" width="100%" height="100" alt="Weird Full-Width Coding" />
 </p>
+
 
 
 
