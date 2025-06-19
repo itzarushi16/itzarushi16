@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDv5J5K9/giphy.gif" width="100%" height="100" alt="Weird Full-Width Coding" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="70%" alt="Penguin Coding" />
 </p>
+
 
 
 
