@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="52%" height="250" alt="Penguin Coding" />
-</p> i want to add sparking border to it 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="50%" height="250" alt="Penguin Coding" />
+</p>
 
 
 
