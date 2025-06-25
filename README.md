@@ -1,53 +1,6 @@
 <p align="center">
-   <style>
-    body {
-      background-color: #0d0d0d;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-
-    .sparkle-border {
-      padding: 4px;
-      border-radius: 12px;
-      background: linear-gradient(135deg, #2c3e50, #8e44ad, #1abc9c, #f39c12);
-      background-size: 300% 300%;
-      animation: sparkle 6s ease infinite;
-      box-shadow: 0 0 12px rgba(255, 255, 255, 0.06);
-    }
-
-    .sparkle-border img {
-      display: block;
-      border-radius: 10px;
-      border: 2px solid rgba(255, 255, 255, 0.07);
-    }
-
-    @keyframes sparkle {
-      0% {
-        background-position: 0% 50%;
-        box-shadow: 0 0 6px #8e44ad, 0 0 8px #2c3e50;
-      }
-      50% {
-        background-position: 100% 50%;
-        box-shadow: 0 0 8px #1abc9c, 0 0 10px #f39c12;
-      }
-      100% {
-        background-position: 0% 50%;
-        box-shadow: 0 0 6px #8e44ad, 0 0 8px #2c3e50;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="sparkle-border">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" 
-         width="400" 
-         height="250" 
-         alt="Penguin Coding" />
-  </div>
-</p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="52%" height="250" alt="Penguin Coding" />
+</p> i want to add sparking border to it 
 
 
 
