@@ -61,6 +61,38 @@
 
 ---
 
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://github.com/yourusername/your-repo-name/blob/main/assets/tech-stack.png" alt="Tech Stack" width="100%" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github.com/yourusername/your-repo-name/blob/main/assets/languages-used.png" alt="Most Used Languages" width="40%" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theaaru16&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 Streak & Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theaaru16&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
 ### ✨ Fun Fact
 
 - 🌈 I love turning caffeine into code
