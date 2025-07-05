@@ -40,8 +40,9 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+ 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
@@ -60,11 +61,9 @@
 </p>
 
 ---
-
-## 💻 Tech Stack
-
+# Tech Stack
 <p align="center">
-  <img src="https://github.com/itzarushi16/your-repo-name/blob/main/assets/tech-stack.png" alt="Tech Stack" width="100%" />
+  <img src="https://github.com/itzarushi16/itzarushi16/blob/main/assets/tech-stack.png" alt="Tech Stack" width="100%" />
 </p>
 
 ---
@@ -72,8 +71,9 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github.com/itzarushi16/your-repo-name/blob/main/assets/languages-used.png" alt="Most Used Languages" width="40%" />
+  <img src="https://github.com/itzarushi16/itzarushi16/blob/main/assets/languages-used.png" alt="Most Used Languages" width="40%" />
 </p>
+
 
 ---
 
