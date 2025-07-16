@@ -5,11 +5,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY0eWYwMWFneDM1NXcyNzFnN2dxcWxtM3drZ2RhbDRuaGF3bGc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="35%" height="200" alt="Penguin Coding" />
 </p>
 
-
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=FF61F6&center=true&vCenter=true&width=750&lines=Frontend+Dev+💻;Coding+with+Creativity+💡;Java+Developer+because+therapy+is+expensive+🧠;React+Stan+💖;Reckless+girly+thriving+in+chaos+💀;Bug+Hunter+Extraordinaire+🔍;Turning+Design+Dreams+into+Code+✨;Running+on+coffee+and+unclear+requirements+☕+📋;Refactoring+my+life...+one+function+at+a+time+🧹;Full-stack-ish+with+backend+energy+⚙️;99+bugs+in+the+code...+take+one+down%2C+127+bugs+now+🐛" alt="Typing SVG" />
 
@@ -35,7 +30,7 @@
 
 ---
 
-##💻 Tech Stack:
+## 💻 Tech Stack:
 
 --- 
 ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
