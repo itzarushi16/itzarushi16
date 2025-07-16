@@ -78,14 +78,15 @@
 
 </div>
 
-
+---
 
 ### ✨ Fun Fact
 
-- 🌈 I love turning caffeine into code
-- 💥 I’m a reckless girly, thriving in the chaos of things
-- 🎨 Designer by heart, coder by passion  
-- 🏖️ My code has fewer bugs than my vacation plans 😄
 
----
+
+🌈 **I love turning caffeine into code**  
+💥 **I’m a reckless girly, thriving in the chaos of things**  
+🎨 **Designer by heart, coder by passion**  
+🏖️ **My code has fewer bugs than my vacation plans 😄**
+
 
