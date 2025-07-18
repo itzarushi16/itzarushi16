@@ -82,11 +82,11 @@
 
 ### ✨ Fun Fact
 
-
- 🧠 **Java Developer because therapy is expensive**
+🧠 **Java Developer because therapy is expensive**  
 🌈 **Pushing code and pulling espresso shots ☕📤**  
 💥 **I’m a reckless girly, thriving in the chaos of things**  
 🎨 **Designer by heart, coder by passion**  
 🏖️ **My code has fewer bugs than my vacation plans 😄**
+
 
 
