@@ -50,7 +50,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
@@ -67,8 +66,7 @@
 ## 🔥 Streak & Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itzarushi16&theme=radical&hide_border=false" alt="GitHub Streak" />
- 
+  <img src="https://streak-stats.demolab.com?user=itzarushi16&theme=radical&hide_border=false" alt="GitHub Streak image" />
 </p>
 
 
@@ -79,6 +77,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzarushi16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
 
 ---
 
