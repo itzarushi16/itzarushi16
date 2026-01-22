@@ -63,11 +63,10 @@
 
 ---
 
-## 🔥 Streak & Contributions
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itzarushi16&theme=radical&hide_border=false" alt="GitHub Streak image" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=itzarushi16&theme=radical)
+
 
 
 ---
